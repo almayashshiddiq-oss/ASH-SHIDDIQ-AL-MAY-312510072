@@ -38,19 +38,7 @@ UTS_Web_312510072_ASH SHIDDIQ AL MAY/
 └── README.md
 ```
 
-## Pemenuhan Komponen Wajib UTS
 
-| No | Komponen | Implementasi | Bukti |
-|----|----------|--------------|-------|
-| a | Struktur dokumen & semantic HTML5 | `header`, `nav`, `main`, `section`, `article`, `aside`, `figure`, `footer`, `table` | [Bagian 1](#1-header-navigasi--hero-panel) |
-| b | Header, navigasi, & hero panel | `.site-header`, `.menu`, `#beranda` | [Bagian 1](#1-header-navigasi--hero-panel) |
-| c | Biografi & profil utama | `#tentang` berisi artikel biografi, kartu data diri, dan foto profil | [Bagian 2](#2-biografi--profil-utama) |
-| d | Tabel riwayat pendidikan | `#pendidikan` | [Bagian 3](#3-tabel-riwayat-pendidikan) |
-| e | Tabel riwayat pengalaman kerja | `#pengalaman` | [Bagian 4](#4-tabel-riwayat-pengalaman-kerja) |
-| f | Riwayat keahlian (unordered & ordered list) | `#keahlian` memakai `ul` dan `ol` | [Bagian 5](#5-riwayat-keahlian) |
-| g | Elemen multimedia | `#multimedia` berisi `audio` dan `video` | [Bagian 6](#6-multimedia-perkenalan) |
-| h | Form kontak interaktif & validasi | `#kontak` dengan validasi HTML5 + JavaScript | [Bagian 7](#7-form-kontak--validasi) |
-| i | Styling & layout CSS | Seluruh tampilan diatur di `style.css` | [Tema Hijau](#tema-hijau) |
 
 ---
 
@@ -58,7 +46,8 @@ UTS_Web_312510072_ASH SHIDDIQ AL MAY/
 
 ### Hasil
 
-![Header, navigasi, dan hero panel](gambar/01-hero.png)
+![Header, navigasi, dan hero panel] <img width="1280" height="786" alt="01-hero" src="https://github.com/user-attachments/assets/d8b17ffb-1527-4887-8f98-82a9314e9988" />
+
 
 ### Penjelasan
 
@@ -172,7 +161,8 @@ Bagian atas website memakai elemen semantik `header` dan `nav`. Header dibuat **
 
 ### Hasil
 
-![Bagian biografi dan profil](gambar/02-tentang.png)
+![Bagian biografi dan profil] <img width="1280" height="1129" alt="02-tentang" src="https://github.com/user-attachments/assets/6e180c7b-a598-4011-9412-04d6dfd889e0" />
+
 
 ### Penjelasan
 
@@ -252,7 +242,8 @@ Section `#tentang` memakai `article` untuk teks biografi dan `aside` untuk kartu
 
 ### Hasil
 
-![Tabel riwayat pendidikan](gambar/03-pendidikan.png)
+![Tabel riwayat pendidikan] <img width="1280" height="578" alt="03-pendidikan" src="https://github.com/user-attachments/assets/6ecf258c-1a0b-47e9-85fe-4df82952c7c5" />
+
 
 ### Penjelasan
 
@@ -336,7 +327,8 @@ tbody tr:nth-child(even) {
 
 ### Hasil
 
-![Tabel riwayat pengalaman kerja](gambar/04-pengalaman.png)
+![Tabel riwayat pengalaman kerja] <img width="1280" height="698" alt="04-pengalaman" src="https://github.com/user-attachments/assets/9bfd2bf6-46c6-493c-b4d7-935598ecf106" />
+
 
 ### Penjelasan
 
@@ -382,7 +374,8 @@ Pengalaman kerja dan proyek mandiri memakai struktur tabel yang sama. Kolomnya b
 
 ### Hasil
 
-![Riwayat keahlian](gambar/05-keahlian.png)
+![Riwayat keahlian] <img width="1280" height="528" alt="05-keahlian" src="https://github.com/user-attachments/assets/38251416-c829-4a76-8591-8d6faec1a8be" />
+
 
 ### Penjelasan
 
@@ -458,7 +451,8 @@ Keahlian ditampilkan dalam dua kartu. Kartu pertama memakai **unordered list** (
 
 ### Hasil
 
-![Bagian multimedia](gambar/06-multimedia.png)
+![Bagian multimedia] <img width="1280" height="637" alt="06-multimedia" src="https://github.com/user-attachments/assets/6a7fb77e-1080-4615-9e1b-1f5b9b51b5e6" />
+
 
 ### Penjelasan
 
@@ -521,7 +515,8 @@ Section `#multimedia` memuat `audio` dan `video` dengan atribut `controls`. Vide
 
 ### Hasil — saat validasi gagal
 
-![Validasi form kontak](gambar/07-kontak-validasi.png)
+![Validasi form kontak] <img width="1280" height="901" alt="07-kontak" src="https://github.com/user-attachments/assets/f5658055-bb75-4d12-afc8-61d7bdba754b" />
+
 
 ### Penjelasan
 
@@ -631,9 +626,11 @@ form.addEventListener("submit", (event) => {
 
 ### Hasil
 
-![Footer](gambar/08-footer.png)
+![Footer] <img width="1280" height="74" alt="08-footer" src="https://github.com/user-attachments/assets/578718a6-fa01-461b-acf1-da75df0e50f6" />
 
-![Menu mobile terbuka](gambar/13-mobile-menu.png)
+
+![Menu mobile terbuka] <img width="390" height="380" alt="13-mobile-menu" src="https://github.com/user-attachments/assets/fe969f87-bb11-4fbb-9122-7f79956cb231" />
+
 
 ### Penjelasan
 
@@ -735,15 +732,19 @@ Tampilan diuji pada lebar **1280px** (desktop) dan **390px** (mobile). Tidak ada
 
 ### Desktop (1280px)
 
-![Tampilan desktop](gambar/09-fullpage.png)
+![Tampilan desktop] <img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/c5cc0dad-b235-4785-8088-87a64697724e" />
+
 
 ### Mobile (390px)
 
-![Hero mobile](gambar/10-mobile-hero.png)
+![Hero mobile] <img width="390" height="1252" alt="10-mobile-hero" src="https://github.com/user-attachments/assets/75dc71d2-bd98-425c-91e0-d7a1e193c9c5" />
 
-![Multimedia mobile](gambar/11-mobile-multimedia.png)
 
-![Kontak mobile](gambar/12-mobile-kontak.png)
+![Multimedia mobile] <img width="390" height="662" alt="11-mobile-multimedia" src="https://github.com/user-attachments/assets/8c1bbda7-3620-46cc-99fd-5fdbcc7dc276" />
+
+
+![Kontak mobile] <img width="390" height="1199" alt="12-mobile-kontak" src="https://github.com/user-attachments/assets/424156c8-9eff-4050-8004-e8c80e177007" />
+
 
 ```css
 @media (max-width: 900px) {
