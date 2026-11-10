@@ -27,7 +27,7 @@ Website memuat biografi, data profil, riwayat pendidikan, riwayat pengalaman ker
 
 ### Hasil
 
-![Header, navigasi, dan hero panel] <img width="1280" height="786" alt="01-hero" src="https://github.com/user-attachments/assets/d8b17ffb-1527-4887-8f98-82a9314e9988" />
+[Header, navigasi, dan hero panel] <img width="1280" height="786" alt="01-hero" src="https://github.com/user-attachments/assets/d8b17ffb-1527-4887-8f98-82a9314e9988" />
 
 
 ### Penjelasan
@@ -142,7 +142,7 @@ Bagian atas website memakai elemen semantik `header` dan `nav`. Header dibuat **
 
 ### Hasil
 
-![Bagian biografi dan profil] <img width="1280" height="1129" alt="02-tentang" src="https://github.com/user-attachments/assets/6e180c7b-a598-4011-9412-04d6dfd889e0" />
+[Bagian biografi dan profil] <img width="1280" height="1129" alt="02-tentang" src="https://github.com/user-attachments/assets/6e180c7b-a598-4011-9412-04d6dfd889e0" />
 
 
 ### Penjelasan
@@ -223,7 +223,7 @@ Section `#tentang` memakai `article` untuk teks biografi dan `aside` untuk kartu
 
 ### Hasil
 
-![Tabel riwayat pendidikan] <img width="1280" height="578" alt="03-pendidikan" src="https://github.com/user-attachments/assets/6ecf258c-1a0b-47e9-85fe-4df82952c7c5" />
+[Tabel riwayat pendidikan] <img width="1280" height="578" alt="03-pendidikan" src="https://github.com/user-attachments/assets/6ecf258c-1a0b-47e9-85fe-4df82952c7c5" />
 
 
 ### Penjelasan
@@ -308,7 +308,7 @@ tbody tr:nth-child(even) {
 
 ### Hasil
 
-![Tabel riwayat pengalaman kerja] <img width="1280" height="698" alt="04-pengalaman" src="https://github.com/user-attachments/assets/9bfd2bf6-46c6-493c-b4d7-935598ecf106" />
+[Tabel riwayat pengalaman kerja] <img width="1280" height="698" alt="04-pengalaman" src="https://github.com/user-attachments/assets/9bfd2bf6-46c6-493c-b4d7-935598ecf106" />
 
 
 ### Penjelasan
@@ -355,7 +355,7 @@ Pengalaman kerja dan proyek mandiri memakai struktur tabel yang sama. Kolomnya b
 
 ### Hasil
 
-![Riwayat keahlian] <img width="1280" height="528" alt="05-keahlian" src="https://github.com/user-attachments/assets/38251416-c829-4a76-8591-8d6faec1a8be" />
+[Riwayat keahlian] <img width="1280" height="528" alt="05-keahlian" src="https://github.com/user-attachments/assets/38251416-c829-4a76-8591-8d6faec1a8be" />
 
 
 ### Penjelasan
@@ -432,7 +432,7 @@ Keahlian ditampilkan dalam dua kartu. Kartu pertama memakai **unordered list** (
 
 ### Hasil
 
-![Bagian multimedia] <img width="1280" height="637" alt="06-multimedia" src="https://github.com/user-attachments/assets/6a7fb77e-1080-4615-9e1b-1f5b9b51b5e6" />
+[Bagian multimedia] <img width="1280" height="637" alt="06-multimedia" src="https://github.com/user-attachments/assets/6a7fb77e-1080-4615-9e1b-1f5b9b51b5e6" />
 
 
 ### Penjelasan
@@ -492,12 +492,12 @@ Section `#multimedia` memuat `audio` dan `video` dengan atribut `controls`. Vide
 
 ### Hasil — tampilan normal
 
-![Form kontak] <img width="1280" height="901" alt="07-kontak" src="https://github.com/user-attachments/assets/533aa504-b7f9-41d4-b0cf-17037894f651" />
+[Form kontak] <img width="1280" height="901" alt="07-kontak" src="https://github.com/user-attachments/assets/533aa504-b7f9-41d4-b0cf-17037894f651" />
 
 
 ### Hasil — saat validasi gagal
 
-![Validasi form kontak] <img width="1280" height="925" alt="07-kontak-validasi" src="https://github.com/user-attachments/assets/54d25a71-6d09-4cb4-aaf8-cdbbd18e1623" />
+[Validasi form kontak] <img width="1280" height="925" alt="07-kontak-validasi" src="https://github.com/user-attachments/assets/54d25a71-6d09-4cb4-aaf8-cdbbd18e1623" />
 
 
 
@@ -609,12 +609,12 @@ form.addEventListener("submit", (event) => {
 
 ### Hasil
 
-![Footer] 
+[Footer] 
 
 <img width="1280" height="74" alt="08-footer" src="https://github.com/user-attachments/assets/578718a6-fa01-461b-acf1-da75df0e50f6" />
 
 
-![Menu mobile terbuka] 
+[Menu mobile terbuka] 
 
 <img width="390" height="380" alt="13-mobile-menu" src="https://github.com/user-attachments/assets/fe969f87-bb11-4fbb-9122-7f79956cb231" />
 
@@ -719,21 +719,21 @@ Tampilan diuji pada lebar **1280px** (desktop) dan **390px** (mobile). Tidak ada
 
 ### Desktop (1280px)
 
-![Tampilan desktop] 
+[Tampilan desktop] 
 <img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/c5cc0dad-b235-4785-8088-87a64697724e" />
 
 
 ### Mobile (390px)
 
-![Hero mobile] 
+[Hero mobile] 
 <img width="390" height="1252" alt="10-mobile-hero" src="https://github.com/user-attachments/assets/75dc71d2-bd98-425c-91e0-d7a1e193c9c5" />
 
 
-![Multimedia mobile] 
+[Multimedia mobile] 
 <img width="390" height="662" alt="11-mobile-multimedia" src="https://github.com/user-attachments/assets/8c1bbda7-3620-46cc-99fd-5fdbcc7dc276" />
 
 
-![Kontak mobile] 
+[Kontak mobile] 
 <img width="390" height="1199" alt="12-mobile-kontak" src="https://github.com/user-attachments/assets/424156c8-9eff-4050-8004-e8c80e177007" />
 
 
