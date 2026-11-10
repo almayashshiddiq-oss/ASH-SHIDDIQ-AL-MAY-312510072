@@ -717,15 +717,15 @@ Warna dasar diatur lewat **CSS variables** di `:root`, sehingga seluruh komponen
 
 Tampilan diuji pada lebar **1280px** (desktop) dan **390px** (mobile). Tidak ada scroll horizontal pada kedua ukuran.
 
-### Desktop (1280px)
+### Desktop
 
 [Tampilan desktop] 
 <img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/c5cc0dad-b235-4785-8088-87a64697724e" />
 
 
-### Mobile (390px)
+### Mobile 
 
-[Hero mobile] 
+[Tampilan mobile] 
 <img width="390" height="1252" alt="10-mobile-hero" src="https://github.com/user-attachments/assets/75dc71d2-bd98-425c-91e0-d7a1e193c9c5" />
 
 
