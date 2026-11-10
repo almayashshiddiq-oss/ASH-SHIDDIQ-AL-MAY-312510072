@@ -17,8 +17,7 @@ Website memuat biografi, data profil, riwayat pendidikan, riwayat pengalaman ker
 
 ## Preview
 
-![Tampilan lengkap website](<img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/9e2b9a7a-e92c-46ee-bc81-4c9135bfac12" />
-)
+![Tampilan lengkap website] <img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/9e2b9a7a-e92c-46ee-bc81-4c9135bfac12" />
 
 ---
 
@@ -764,55 +763,4 @@ Tampilan diuji pada lebar **1280px** (desktop) dan **390px** (mobile). Tidak ada
 
 ---
 
-## Hasil Validasi Akhir
 
-| Pemeriksaan | Hasil |
-|-------------|-------|
-| ID ganda pada HTML | Tidak ada |
-| Tautan anchor (`#...`) | Semua target ditemukan |
-| Gambar profil | Berhasil dimuat |
-| Audio & video | Sumber terbaca (`readyState = 4`) |
-| CSS terurai | 130 aturan terbaca browser |
-| Scroll horizontal desktop 1280px | Tidak ada (`scrollWidth = 1280`) |
-| Scroll horizontal mobile 390px | Tidak ada (`scrollWidth = 390`) |
-| Form valid | Pesan sukses tampil, form ter-reset |
-| Form tidak valid | 3 error tampil, fokus ke field pertama |
-| Menu mobile | Terbuka, `aria-expanded="true"` |
-| Error console | Tidak ada |
-
----
-
-## Cara Upload ke GitHub
-
-Setiap gambar sudah dipisah menjadi file `.png` sendiri di folder `gambar/`, jadi bisa diunggah langsung tanpa perlu menggabungkan atau membuat ZIP.
-
-1. Buat repository baru di GitHub (mis. `UTS_Web_312510072_ASH SHIDDIQ AL MAY`).
-2. Klik **Add file → Upload files**.
-3. Seret (drag & drop) seluruh isi folder proyek: `index.html`, `style.css`, `README.md`, folder `images/`, `media/`, dan `gambar/`.
-   - Jika ingin mengunggah gambar satu per satu, buka folder `gambar/`, lalu seret semua file `.png` sekaligus.
-4. Klik **Commit changes**. README akan otomatis menampilkan gambar karena path `gambar/...` sudah sesuai.
-
-> Penting: pertahankan struktur folder. Jika `gambar/` diletakkan di tempat lain, ubah path gambar di README agar sesuai.
-
----
-
-## Cara Menjalankan
-
-1. Buka folder `UTS_Web_312510072_ASH SHIDDIQ AL MAY`.
-2. Klik dua kali `index.html`, atau buka melalui browser.
-3. Opsional, jalankan local server:
-
-```bash
-py -m http.server 8000
-# lalu buka http://localhost:8000
-```
-
-## Catatan
-
-- Form kontak memakai validasi sisi klien; pengiriman pesan hanya disimulasikan karena belum terhubung ke backend.
-- Video perkenalan ditampilkan langsung tanpa poster dengan latar hijau.
-- Audio dan video menggunakan rekaman pribadi.
-
-## Kesimpulan
-
-Website profil ini memenuhi seluruh komponen wajib UTS (a–i): struktur semantik HTML5, header/navigasi/hero, biografi, dua tabel riwayat, keahlian dalam `ul` dan `ol`, multimedia, form kontak bervalidasi, serta styling CSS responsif dengan tema hijau yang konsisten.
