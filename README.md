@@ -21,25 +21,6 @@ Website memuat biografi, data profil, riwayat pendidikan, riwayat pengalaman ker
 
 ---
 
-## Struktur Folder
-
-```text
-UTS_Web_312510072_ASH SHIDDIQ AL MAY/
-├── index.html            # Halaman utama profil pribadi
-├── style.css             # Stylesheet eksternal (tema hijau)
-├── images/
-│   ├── profil.jpg        # Foto profil
-│   ├── imagelain.jpg     # Gambar pendukung (arsip)
-│   └── screenshot.png    # Screenshot hasil website
-├── gambar/               # Screenshot terpisah per bagian (siap upload)
-├── media/
-│   ├── audio.mp3         # Audio perkenalan
-│   └── video.mp4         # Video perkenalan
-└── README.md
-```
-
-
-
 ---
 
 ## 1. Header, Navigasi, & Hero Panel
