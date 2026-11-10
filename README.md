@@ -610,10 +610,12 @@ form.addEventListener("submit", (event) => {
 ### Hasil
 
 ![Footer] 
+
 <img width="1280" height="74" alt="08-footer" src="https://github.com/user-attachments/assets/578718a6-fa01-461b-acf1-da75df0e50f6" />
 
 
 ![Menu mobile terbuka] 
+
 <img width="390" height="380" alt="13-mobile-menu" src="https://github.com/user-attachments/assets/fe969f87-bb11-4fbb-9122-7f79956cb231" />
 
 
@@ -717,18 +719,22 @@ Tampilan diuji pada lebar **1280px** (desktop) dan **390px** (mobile). Tidak ada
 
 ### Desktop (1280px)
 
-![Tampilan desktop] <img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/c5cc0dad-b235-4785-8088-87a64697724e" />
+![Tampilan desktop] 
+<img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/c5cc0dad-b235-4785-8088-87a64697724e" />
 
 
 ### Mobile (390px)
 
-![Hero mobile] <img width="390" height="1252" alt="10-mobile-hero" src="https://github.com/user-attachments/assets/75dc71d2-bd98-425c-91e0-d7a1e193c9c5" />
+![Hero mobile] 
+<img width="390" height="1252" alt="10-mobile-hero" src="https://github.com/user-attachments/assets/75dc71d2-bd98-425c-91e0-d7a1e193c9c5" />
 
 
-![Multimedia mobile] <img width="390" height="662" alt="11-mobile-multimedia" src="https://github.com/user-attachments/assets/8c1bbda7-3620-46cc-99fd-5fdbcc7dc276" />
+![Multimedia mobile] 
+<img width="390" height="662" alt="11-mobile-multimedia" src="https://github.com/user-attachments/assets/8c1bbda7-3620-46cc-99fd-5fdbcc7dc276" />
 
 
-![Kontak mobile] <img width="390" height="1199" alt="12-mobile-kontak" src="https://github.com/user-attachments/assets/424156c8-9eff-4050-8004-e8c80e177007" />
+![Kontak mobile] 
+<img width="390" height="1199" alt="12-mobile-kontak" src="https://github.com/user-attachments/assets/424156c8-9eff-4050-8004-e8c80e177007" />
 
 
 ```css
