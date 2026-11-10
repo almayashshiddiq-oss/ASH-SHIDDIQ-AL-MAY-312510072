@@ -17,7 +17,8 @@ Website memuat biografi, data profil, riwayat pendidikan, riwayat pengalaman ker
 
 ## Preview
 
-![Tampilan lengkap website](gambar/09-fullpage.png)
+![Tampilan lengkap website](<img width="1280" height="5327" alt="09-fullpage" src="https://github.com/user-attachments/assets/9e2b9a7a-e92c-46ee-bc81-4c9135bfac12" />
+)
 
 ---
 
