@@ -511,11 +511,13 @@ Section `#multimedia` memuat `audio` dan `video` dengan atribut `controls`. Vide
 
 ### Hasil — tampilan normal
 
-![Form kontak](gambar/07-kontak.png)
+![Form kontak] <img width="1280" height="901" alt="07-kontak" src="https://github.com/user-attachments/assets/533aa504-b7f9-41d4-b0cf-17037894f651" />
+
 
 ### Hasil — saat validasi gagal
 
-![Validasi form kontak] <img width="1280" height="901" alt="07-kontak" src="https://github.com/user-attachments/assets/f5658055-bb75-4d12-afc8-61d7bdba754b" />
+![Validasi form kontak] <img width="1280" height="925" alt="07-kontak-validasi" src="https://github.com/user-attachments/assets/54d25a71-6d09-4cb4-aaf8-cdbbd18e1623" />
+
 
 
 ### Penjelasan
@@ -626,10 +628,12 @@ form.addEventListener("submit", (event) => {
 
 ### Hasil
 
-![Footer] <img width="1280" height="74" alt="08-footer" src="https://github.com/user-attachments/assets/578718a6-fa01-461b-acf1-da75df0e50f6" />
+![Footer] 
+<img width="1280" height="74" alt="08-footer" src="https://github.com/user-attachments/assets/578718a6-fa01-461b-acf1-da75df0e50f6" />
 
 
-![Menu mobile terbuka] <img width="390" height="380" alt="13-mobile-menu" src="https://github.com/user-attachments/assets/fe969f87-bb11-4fbb-9122-7f79956cb231" />
+![Menu mobile terbuka] 
+<img width="390" height="380" alt="13-mobile-menu" src="https://github.com/user-attachments/assets/fe969f87-bb11-4fbb-9122-7f79956cb231" />
 
 
 ### Penjelasan
